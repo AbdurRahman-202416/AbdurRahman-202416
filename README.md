@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **an eCommerce app**  
 🌱 I’m currently exploring **React, Tailwind CSS, and modern web development tools**  
-💬 Ask me about **React, Tailwind CSS, JavaScript... or anything [here](https://github.com/abdurrahman19011/abdurrahman19011/issues)**  
+💬 Ask me about **React, Tailwind CSS, JavaScript... or anything**  
 ⚡ Fun fact: **The first computer bug was an actual moth found in a Harvard Mark II computer in 1947!**
 
 </div>
@@ -23,10 +23,10 @@
   <a href="mailto:abdurrahman19011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/abdurrahman19011" target="_blank">
+  <a href="https://www.linkedin.com/in/abdur-rahman-8635b9290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://abdurrahman-portfolio.vercel.app" target="_blank">
+  <a href="https://portfolio-website-main-sigma.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </div>
@@ -48,10 +48,10 @@
   Institute of Science and Technology, National University, Dhaka, Bangladesh.  
 
 - **2016 – 2018**: Higher Secondary Certificate (H.S.C)  
-  Syed Abul Hossain College, Madaripur. | CGPA 4.25/5.00  
+  Syed Abul Hossain College, Madaripur.
 
 - **2014 – 2016**: Secondary School Certificate (S.S.C)  
-  Shariatpur Govt. Technical School and College, Shariatpur. | CGPA 4.11/5.00  
+  Shariatpur Govt. Technical School and College, Shariatpur. 
 
 <hr/>
 
@@ -73,14 +73,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=abdurrahman19011&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdurrahman19011&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahman19011&theme=react&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdurrahman19011&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman19011&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman19011&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
-
 <hr/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.linkedin.com/in/abdur-rahman-8635b9290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
