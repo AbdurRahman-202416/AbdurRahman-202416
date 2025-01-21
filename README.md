@@ -62,23 +62,6 @@
 
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br/>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdurrahman19011/abdurrahman19011/output/github-contribution-grid-snake.svg" />
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahman19011&theme=react&border_radius=10" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdurrahman19011&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman19011&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-<hr/>
 
 <div align="center">
 <a href='https://www.linkedin.com/in/abdur-rahman-8635b9290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
