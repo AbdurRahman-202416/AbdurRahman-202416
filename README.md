@@ -51,14 +51,14 @@
 ### ✅ **E-Commerce Platform (Current Focus)**
 A modern full-stack shopping platform with user authentication, cart, and product management.  
 **Tech Stack:** Next.js, Tailwind CSS, Zustand, TanStack Query, Node.js  
-🔗 *[Repository link or live demo]*
+🔗 *https://react-ecommerce-swart-five.vercel.app/*
 
 ---
 
 ### ✅ **Passkey Authentication (WebAuthn) System**
 A secure **passwordless authentication** system using biometrics & device-bound passkeys.  
 **Tech Stack:** Next.js (API Routes), SimpleWebAuthn, JSON Server  
-🔗 *[Repository link]*
+🔗 *https://github.com/AbdurRahman-202416/authentication-passwordless-fido-auth-portal*
 
 ---
 
@@ -78,7 +78,7 @@ A modern beautiful landing UI created with Tailwind CSS.
 ### ✅ **Bangladesh Postal Code Finder**
 Search any BD postal code instantly with real-time API lookup.  
 **Tech Stack:** React, REST API, Tailwind  
-🔗 *[Project link]*
+🔗 *https://post-office-tracker-taupe.vercel.app/*
 
 ---
 
