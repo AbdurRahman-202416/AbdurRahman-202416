@@ -10,10 +10,10 @@
 
 <div align="center">
 
-🔭 I’m currently working on **an eCommerce app**  
-🌱 I’m exploring **React, Next.js, TypeScript, TanStack Query, Zustand, and modern web tools**  
+🔭 I’m currently working on **CMS Banking** using **Angular, TypeScript, SCSS, ngx-datatable, Bootstrap, Formly**  
+🌱 I’m exploring **React, Next.js, TanStack Query, Zustand, and modern web tools**  
 🧪 I’m learning **Passkeys (WebAuthn), Authentication Systems, and Face Validation**  
-💬 Ask me about **React, Next.js, Tailwind CSS, JavaScript... or anything!**  
+💬 Ask me about **Angular, React, Next.js, Tailwind CSS, JavaScript, TypeScript, or anything!**  
 ⚡ Fun fact: **The first computer bug was an actual moth found inside a Harvard Mark II computer in 1947!**
 
 </div>
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,mysql,mongodb,git,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=redis,postman,prisma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,mysql,mongodb,git,vscode,angular" /><br>
+    <img src="https://skillicons.dev/icons?i=redis,postman,prisma,scss" />
 </div>
 
 <br/>
@@ -48,10 +48,9 @@
 <h2 align="center">🚀 Projects Showcase 🚀</h2>
 <br/>
 
-### ✅ **E-Commerce Platform (Current Focus)**
-A modern full-stack shopping platform with user authentication, cart, and product management.  
-**Tech Stack:** Next.js, Tailwind CSS, Zustand, TanStack Query, Node.js  
-🔗 *https://react-ecommerce-swart-five.vercel.app/*
+### ✅ **CMS Banking (Current Focus)**
+Developing a **robust banking content management system** with dashboards, secure authentication, and transaction management.  
+**Tech Stack:** Angular, TypeScript, SCSS, ngx-datatable, Bootstrap, Angular Formly, Node.js
 
 ---
 
@@ -69,7 +68,7 @@ Exploring real-time face validation, spoofing prevention, and biometric login fl
 ---
 
 ### ✅ **FearStyle — Fashion/Style Landing Website**
-A modern beautiful landing UI created with Tailwind CSS.  
+A modern landing UI created with Tailwind CSS.  
 **Tech Stack:** React, Tailwind  
 🔗 https://fearstyle.vercel.app/
 
@@ -83,7 +82,7 @@ Search any BD postal code instantly with real-time API lookup.
 ---
 
 ### ✅ **Next.js + Zustand + TanStack Query Sample App**
-A simple starter project demonstrating global state + API fetching.  
+A starter project demonstrating global state + API fetching.  
 **Tech Stack:** Next.js App Router, Zustand, TanStack Query
 
 ---
@@ -104,14 +103,10 @@ A demo component showing interpolation, property binding, class binding, ngModel
 
 <h2 align="center">🎓 Education 🎓</h2>
 
-- **2019 – 2024**: B. Sc. in Computer Science and Engineering (CSE)  
-  National University, Dhaka, Bangladesh.
-
-- **2016 – 2018**: Higher Secondary Certificate (H.S.C)  
-  Syed Abul Hossain College, Madaripur.
-
-- **2014 – 2016**: Secondary School Certificate (S.S.C)  
-  Shariatpur Govt. Technical School and College.
+- **Current:** M.Sc. in MCSE (Master of Computer Science & Engineering), ongoing  
+- **B.Sc. in Computer Science and Engineering (CSE)**, National University, Dhaka, Bangladesh  
+- **Higher Secondary Certificate (H.S.C)**, Syed Abul Hossain College, Madaripur  
+- **Secondary School Certificate (S.S.C)**, Shariatpur Govt. Technical School and College
 
 <br/>
 
@@ -124,7 +119,7 @@ A demo component showing interpolation, property binding, class binding, ngModel
     • Modern State Management (Zustand, Redux Toolkit)  
     • Server-Side Rendering (SSR) & App Router  
     • Authentication & Authorization (JWT, WebAuthn, OAuth)  
-    • UI/UX development with Tailwind CSS & ShadCN UI  
+    • UI/UX development with Angular, Tailwind CSS & ShadCN UI  
     • Cloudflare Tunnel / DevTunnels for secure local testing  
 </div>
 
